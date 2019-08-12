@@ -1,0 +1,13 @@
+{
+    "name": "maticangroup/js_api",
+    "description": "This is the JavaScript core api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matican Matican",
+            "email": "maticangroup@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
