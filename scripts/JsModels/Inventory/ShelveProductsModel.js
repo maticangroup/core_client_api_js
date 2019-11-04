@@ -1,0 +1,1 @@
+class ShelveProductsModel{getShelveId(){return this.shelveId;}setShelveId($shelveId){this.shelveId=$shelveId;}getProducts(){return this.products;}setProducts($products){this.products=$products;}}

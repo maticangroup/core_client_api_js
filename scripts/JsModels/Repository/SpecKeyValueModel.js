@@ -1,0 +1,1 @@
+class SpecKeyValueModel{getItemId(){return this.itemId;}setItemId($itemId){this.itemId=$itemId;}getKeyId(){return this.keyId;}setKeyId($keyId){this.keyId=$keyId;}getValue(){return this.value;}setValue($value){this.value=$value;}getKeyValueId(){return this.keyValueId;}setKeyValueId($keyValueId){this.keyValueId=$keyValueId;}}

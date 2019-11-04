@@ -1,0 +1,1 @@
+class UpdateItemCategoryModel{getItemId(){return this.itemId;}setItemId($itemId){this.itemId=$itemId;}getItemCategoriesIds(){return this.itemCategoriesIds;}setItemCategoriesIds($itemCategoriesIds){this.itemCategoriesIds=$itemCategoriesIds;}}

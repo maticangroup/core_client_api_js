@@ -1,0 +1,1 @@
+class CompanyAddEmployeeModel{getEmployeeID(){return this.employeeID;}setEmployeeID($employeeID){this.employeeID=$employeeID;}getCompanyID(){return this.companyID;}setCompanyID($companyID){this.companyID=$companyID;}}

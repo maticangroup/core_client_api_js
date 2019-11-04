@@ -1,0 +1,1 @@
+class ForbiddenWordsModel{getId(){return this.id;}setId($id){this.id=$id;}getForbiddenWord(){return this.forbiddenWord;}setForbiddenWord($forbiddenWord){this.forbiddenWord=$forbiddenWord;}}

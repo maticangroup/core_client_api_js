@@ -1,0 +1,1 @@
+class InventoryProductsModel{getInventoryId(){return this.inventoryId;}setInventoryId($inventoryId){this.inventoryId=$inventoryId;}getProducts(){return this.products;}setProducts($products){this.products=$products;}}

@@ -18,10 +18,21 @@
 </head>
 
 <body>
+<script>
 
+</script>
 <!-- Scripts -->
-<script src="./script/all.js"></script>
+<script src="./script/js_core_api.js">
 
+</script>
+<script type="text/javascript">
+    let current_user_token = '12324';
+    let login_page_url = 'http://test.com';
+    Request.send("Repository", "Person", "all", function (response) {
+        console.log(response);
+    });
+
+</script>
 <!-- Page Level Scripts -->
 
 </body>

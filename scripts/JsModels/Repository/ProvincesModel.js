@@ -1,0 +1,1 @@
+class ProvincesModel{getCountryId(){return this.countryId;}setCountryId($countryId){this.countryId=$countryId;}getProvinces(){return this.provinces;}setProvinces($provinces){this.provinces=$provinces;}}

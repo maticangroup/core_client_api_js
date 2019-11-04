@@ -1,0 +1,1 @@
+class BrandSupplierModel{getCompanyId(){return this.companyId;}setCompanyId($companyId){this.companyId=$companyId;}getBrandId(){return this.brandId;}setBrandId($brandId){this.brandId=$brandId;}}

@@ -1,0 +1,1 @@
+class CountriesModel{getCountries(){return this.countries;}setCountries($countries){this.countries=$countries;}}

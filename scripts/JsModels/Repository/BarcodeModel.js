@@ -1,0 +1,1 @@
+class BarcodeModel{getBarcodeId(){return this.barcodeId;}setBarcodeId($barcodeId){this.barcodeId=$barcodeId;}getBarcodeName(){return this.barcodeName;}setBarcodeName($barcodeName){this.barcodeName=$barcodeName;}getItemId(){return this.itemId;}setItemId($itemId){this.itemId=$itemId;}}

@@ -1,0 +1,1 @@
+class InvoiceGroupModel{getInvoiceGroupId(){return this.invoiceGroupId;}setInvoiceGroupId($invoiceGroupId){this.invoiceGroupId=$invoiceGroupId;}getInvoiceGroupName(){return this.invoiceGroupName;}setInvoiceGroupName($invoiceGroupName){this.invoiceGroupName=$invoiceGroupName;}getInvoiceId(){return this.invoiceId;}setInvoiceId($invoiceId){this.invoiceId=$invoiceId;}}

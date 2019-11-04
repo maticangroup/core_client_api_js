@@ -1,0 +1,1 @@
+class ProvinceModel{getProvinceId(){return this.provinceId;}setProvinceId($provinceId){this.provinceId=$provinceId;}getProvinceName(){return this.provinceName;}setProvinceName($provinceName){this.provinceName=$provinceName;}}

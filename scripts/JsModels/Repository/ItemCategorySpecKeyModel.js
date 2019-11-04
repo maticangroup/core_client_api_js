@@ -1,0 +1,1 @@
+class ItemCategorySpecKeyModel{getItemCategoryId(){return this.itemCategoryId;}setItemCategoryId($itemCategoryId){this.itemCategoryId=$itemCategoryId;}getSpecKeysIds(){return this.specKeysIds;}setSpecKeysIds($specKeysIds){this.specKeysIds=$specKeysIds;}}

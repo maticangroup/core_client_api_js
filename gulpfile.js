@@ -4,8 +4,8 @@ const concat = require('gulp-concat');
 
 
 function script() {
-    return gulp.src('./scripts/**/*.js')
-        .pipe(concat('all.js'))
+    return gulp.src(['./scripts/**/*.js'])
+        .pipe(concat('js_core_api.js'))
         .pipe(gulp.dest('./app/script/'));
 }
 
